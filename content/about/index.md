@@ -8,6 +8,8 @@ eleventyNavigation:
 
 I am a person that writes stuff.
 
+![](/public/img/CoverTruckie-logo.jpg)
+
 Cheers,
 
 VJ
